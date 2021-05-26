@@ -1,6 +1,6 @@
 var contextMenus = (function(){
 	if(!document.addEventListener){
-		alert("y u use ie");
+		alert("y u use ie"); 
 
 		throw "Browser does not support document.addEventListener";
 	}
